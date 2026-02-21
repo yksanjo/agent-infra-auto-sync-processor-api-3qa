@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-auto-sync-processor-api-3qa",
+  "version": "1.0.0",
+  "description": "Container orchestration system",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "auto-sync-processor-api-3qa"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-auto-sync-processor-api-3qa.git"
+  }
+}
